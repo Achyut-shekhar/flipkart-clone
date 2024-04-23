@@ -1,0 +1,44 @@
+.flex-all-center{
+   
+    display: flex;
+    justify-content: center;
+  
+    align-items: center;
+   
+}
+.flipkartpic{
+    background-color: var(--main-bg-color);
+    margin-top: 9px;
+   
+    width: 143px;
+    height: 45px;
+}
+.logo{
+    background-color: var(--main-bg-color);
+    width: 80px;
+    height: 29px;
+  width: 111px;
+  margin: 0px 0px 0px 23px;
+}
+img{
+    background-color:white 
+}
+.text{
+    text-align: center;
+}
+.viewall button{
+margin-top: 24px;
+height: 100%;
+color: whitesmoke;
+background-color: var(--main-bg-color);
+box-shadow: 0 2px 4px 0 rgb(0 0 0/20%);
+font-size: 14px;
+padding: 10px 20px;
+border-radius: 10px;
+cursor: pointer;
+}
+.offerpic{
+    height: 268px;
+  width: 495px;
+  margin: 8px;
+}
